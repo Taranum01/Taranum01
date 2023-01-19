@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Taranum Wasu 👋</h1>
 
-<!-- <h3 align="center">A passionate Software engineer and Frontend developer</h3> -->
+<h3 align="center">A passionate Software engineer and Frontend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
@@ -34,19 +34,26 @@
 
 
 <br/> 
-<h2>Github Stats  </h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Taranum01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>
+<h2>📊 Github Stats  </h2>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taranum01&show_icons=true&locale=en&layout=compact" alt="taranum01" /></div>
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/Taranum01/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Taranum01&hide_border=true&show_icons=true" alt="Taranum's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/Taranum01/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taranum01&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Taranum01&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D"  /> </a>
+    </td>
+  </tr>
+</table>
 
-<br/> 
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taranum01&show_icons=true&locale=en" alt="taranum01" /></p> -->
-
-<br/> 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taranum01&" alt="taranum01" /></div>
+</br>
 
 ## Non Profit Organisations   
 * [TICC (Thapar Institute Counselling Cell)](https://www.instagram.com/ticc.official/?hl=en)
@@ -60,4 +67,3 @@
 * Travelling🚅✈️    
 * Physical and Mental Fitness 💪
 * Creative Writing 
-
