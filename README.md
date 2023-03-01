@@ -12,11 +12,13 @@
 
 - 🌱 Also, I'm learning **full stack development and machine learning**
 
-- 💬 Ask me about **react, javascript and python**
-
 - 📫 How to reach me **taranumwasu121@gmail.com**
 
+- 💬 Ask me about **react, javascript and python**
+
 - ⚡ Fun fact **I am a workaholic!**
+
+- 💻 My portfolio: https://taranum-portfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 
