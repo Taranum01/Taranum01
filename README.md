@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **taranumwasu121@gmail.com**
 
-- 💬 Ask me about **react, javascript and python**
+<!-- - 💬 Ask me about **react, javascript and python** -->
 
 - ⚡ Fun fact **I am a workaholic!**
 
