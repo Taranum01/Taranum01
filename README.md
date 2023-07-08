@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taranum01&label=Profile%20views&color=0e75b6&style=flat" alt="taranum01" /> </p>
 
-- 🔭 I’m currently pursuing my bachelor's degree in **computer science**
+- 🔭 I'm a recent graduate from Thapar University, holding a Bachelor's degree in Computer Science.**
 
-- 🌱 Also, I'm learning **full stack development and machine learning**
+- 🌱 I'm learning **full stack development and machine learning**
 
 - 📫 How to reach me **taranumwasu121@gmail.com**
 
