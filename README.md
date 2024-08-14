@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taranum01&label=Profile%20views&color=0e75b6&style=flat" alt="taranum01" /> </p>
 
-- 🔭  I'm a recent graduate from Thapar University, holding a **Bachelor's degree in Computer Science**
+- 🔭  I'm a graduate from Thapar University, holding a **Bachelor's degree in Computer Science**
 
 - 🌱  I'm learning **full stack development and machine learning**
 
