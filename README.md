@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Taranum Wasu 👋</h1>
 
-<h3 align="center">A passionate Software engineer with a strong interest technology-driven solutions. </h3>
+<h3 align="center">An Innovative Software Developer and Machine Learning Enthusiast </h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
