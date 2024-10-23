@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Taranum Wasu 👋</h1>
 
-<h3 align="center">A passionate Software engineer and Frontend developer</h3>
+<h3 align="center">A passionate Software engineer with a strong interest technology-driven solutions. </h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
@@ -10,7 +10,7 @@
 
 - 🔭  I'm a graduate from Thapar University, holding a **Bachelor's degree in Computer Science**
 
-- 🌱  I'm learning **full stack development and machine learning**
+- 🌱  I'm learning **machine learning and full stack development**
 
 - 📫  How to reach me **taranumwasu121@gmail.com**
 
